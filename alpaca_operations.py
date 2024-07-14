@@ -41,3 +41,5 @@ def sellImmediate(symbol: str):
         print('ERROR: ur broke bruh')
 
 
+
+
